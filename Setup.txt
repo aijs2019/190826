@@ -1,0 +1,26 @@
+﻿# 上課環境之軟體安裝
+
+
+1.  Visual Studio Code
+    https://code.visualstudio.com/
+
+
+2.  在 Visual Studio Code 安裝套件
+    Live Server (ritwickdey.liveserver)
+
+    <Hint>
+    點按 VS Code 左邊側邊工具的第五個(方形那個)圖示，
+    輸入關鍵字，例如: Live
+
+
+3.  安裝 Git
+    https://git-scm.com/
+
+
+4.  安裝 Node.js
+    https://nodejs.org
+
+
+5.  安裝 XAMPP
+    https://www.apachefriends.org/zh_tw/index.html
+

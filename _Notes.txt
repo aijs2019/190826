@@ -1,0 +1,21 @@
+How Machines Learn
+https://www.youtube.com/watch?v=R9OHn5ZF4Uo
+
+什麼是機器學習? What is machine learning?
+https://www.youtube.com/watch?v=YY7-VKXybjc
+
+The 7 Steps of Machine Learning (AI Adventures)
+https://www.youtube.com/watch?v=nKW8Ndu7Mjw
+
+究竟神經網路是什麼？ l 第一章 深度學習
+https://www.youtube.com/watch?v=aircAruvnKk
+
+梯度下降，神經網絡如何學習
+https://www.youtube.com/watch?v=IHZwWFHWa-w
+
+什麼是反向傳播演算法？
+https://www.youtube.com/watch?v=Ilg3gGewQ5U
+
+A Neural Network Playground
+https://playground.tensorflow.org/
+
